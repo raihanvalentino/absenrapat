@@ -24,14 +24,14 @@
 
 | Formulir Presensi Digital | Manajemen Daftar Rapat |
 | :---: | :---: |
-| ![Form Presensi](images/form-presensi.png) | ![Dashboard Rapat](images/dashboard-rapat.png) |
+| ![Form Presensi](images/formpengisian.png) | ![Dashboard Rapat](images/tambahrapat.jpeg) |
 
 <br>
 
 <div align="center">
 
-### Manajemen User Admin
-![Kelola User](images/kelola-user.png)
+### Dashboard User Admin
+![Kelola User](images/dashboardsuperadmin.png)
 
 </div>
 
@@ -39,8 +39,8 @@
 
 ## 🛠️ Tech Stack
 
-- **Framework Backend:** [Laravel](https://laravel.com/)
-- **Frontend:** [Tailwind CSS](https://tailwindcss.com/), Blade Template Engine
+- **Framework Backend:** Laravel
+- **Frontend:** Tailwind CSS, Blade Template Engine
 - **Database:** MySQL (XAMPP / Standalone)
 - **Web Server:** Apache
 
@@ -58,8 +58,8 @@
 
 1. **Clone Repositori**
    ```bash
-   git clone [https://github.com/raihanvalentino/absenrapat.git](https://github.com/raihanvalentino/absenrapat.git)
-   cd absenrapat
+   git clone https://github.com/raihanvalentino/absenrapat.git
+cd absenrapat
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>

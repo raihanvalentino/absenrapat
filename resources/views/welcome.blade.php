@@ -24,7 +24,8 @@
             font-size: 0.875rem;
             line-height: 1.25rem;
         }
-        /* Warna Active Page menjadi #153D53 */
+        
+        
         .page-item.active .page-link {
             background-color: #153D53;
             color: white;
@@ -37,7 +38,7 @@
             background-color: #f9fafb;
         }
         
-        /* Custom Scrollbar (Opsional agar lebih rapi) */
+        
         ::-webkit-scrollbar {
             width: 8px;
             height: 8px;
