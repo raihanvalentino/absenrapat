@@ -1,10 +1,65 @@
-<h1 align="center">Hi 👋, I'm don</h1>
+<h1 align="center">📋 Sistem Absensi Rapat Digital</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/luthfi aditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luthfi aditya" height="30" width="40" /></a>
-<a href="https://instagram.com/luthfidty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luthfidty" height="30" width="40" /></a>
+<p align="center">
+  <b>Kementerian Transmigrasi Republik Indonesia</b>
 </p>
+
+<p align="center">
+  Sistem informasi berbasis web yang dirancang untuk mengoperasikan digitalisasi proses pencatatan presensi rapat. Menggantikan lembar kehadiran fisik (kertas) dengan formulir digital yang adaptif, terintegrasi dengan struktur unit kerja, serta dilengkapi kontrol penutupan presensi berbasis waktu.
+</p>
+
+---
+
+## 🚀 Fitur Utama
+
+- **Kategori Peserta Dinamis:** Formulir presensi menyesuaikan bidang input data berdasarkan kategori peserta (**Internal** kementerian sesuai struktur Eselon I/II atau **Eksternal**).
+- **Kontrol Presensi Otomatis & Manual:** Formulir absensi dapat menutup secara otomatis sesuai jadwal rapat yang ditentukan atau ditutup secara manual oleh administrator.
+- **Manajemen Hak Akses (Multi-Role):** Pembagian peran (*Super Admin* dan *Admin Biasa*) untuk mengelola pembuatan kegiatan rapat di masing-masing unit kerja.
+- **Filter & Pencarian Rapat:** Pencarian riwayat dan jadwal rapat secara cepat berdasarkan nama kegiatan maupun rentang tanggal.
+- **Pengelolaan Berkas Rapat:** Integrasi pengunggahan dan pengunduhan dokumen pendukung seperti Notulensi, Materi, dan Dokumentasi kegiatan.
+
+---
+
+## 📸 Tampilan Aplikasi
+
+| Formulir Presensi Digital | Manajemen Daftar Rapat |
+| :---: | :---: |
+| ![Form Presensi](images/form-presensi.png) | ![Dashboard Rapat](images/dashboard-rapat.png) |
+
+<br>
+
+<div align="center">
+
+### Manajemen User Admin
+![Kelola User](images/kelola-user.png)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+- **Framework Backend:** [Laravel](https://laravel.com/)
+- **Frontend:** [Tailwind CSS](https://tailwindcss.com/), Blade Template Engine
+- **Database:** MySQL (XAMPP / Standalone)
+- **Web Server:** Apache
+
+---
+
+## ⚙️ Panduan Instalasi (Local Development)
+
+### Persyaratan Sistem
+- PHP >= 8.1
+- Composer
+- Node.js & NPM
+- XAMPP (Apache & MySQL)
+
+### Langkah-Langkah
+
+1. **Clone Repositori**
+   ```bash
+   git clone [https://github.com/raihanvalentino/absenrapat.git](https://github.com/raihanvalentino/absenrapat.git)
+   cd absenrapat
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
