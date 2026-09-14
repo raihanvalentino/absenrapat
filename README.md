@@ -31,7 +31,7 @@
 <div align="center">
 
 ### Dashboard User Admin
-![Kelola User](images/dashboardsuperadmin.png)
+![Kelola User](images/dashboardsuperadmin.jpeg)
 
 </div>
 
